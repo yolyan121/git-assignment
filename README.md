@@ -17,6 +17,3 @@ This repository contains my Git and GitHub practice for Robertson College.
 - index.html - Simple HTML webpage
 - exercises/practice.txt - Git practice notes
 - foo and bar - Git practice files
-
-For more information on Git, see the
-[official Git documentation](https://git-scm.com/).
